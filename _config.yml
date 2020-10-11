@@ -8,11 +8,12 @@
 
 title: The Py Monster
 description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+baseurl: "/pystory"
 github_username: changsin
 
 # Email and twitter are optional:
 email:
-twitter_username:
+twitter_username: changsin_lee
 
 # Set this to true to get LaTeX math equation support
 use_math:
