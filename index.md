@@ -1,3 +1,1 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-## Hello World
+AI is the new gold rush and code is the currency. This blog will serve as a milepost for my path and I hope you will find them useful in your own quest.
